@@ -7,7 +7,7 @@ export const achievementData = {
          details: "National University",
          date: "Current",
          field: "MBA Student",
-         image: "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+         image: "https://www.nu.edu/wp-content/uploads/2018/10/locBuilding025.jpg?w=460",
       },
       {
          id: 1,
@@ -15,7 +15,7 @@ export const achievementData = {
          details: "MachiningCloud, Inc",
          date: "Current",
          field: "Software Engineer",
-         image: "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+         image: "https://www.roboris.it/wp-content/uploads/2021/02/MachiningCloud.jpg",
       },
       {
          id: 2,
@@ -23,7 +23,7 @@ export const achievementData = {
          details: "Sabio, Inc",
          date: "2022",
          field: "Software Engineer",
-         image: "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+         image: "https://pbs.twimg.com/profile_images/1008337748946608128/qlYQYpx-_400x400.jpg",
       },
       {
          id: 3,
@@ -31,7 +31,7 @@ export const achievementData = {
          details: "Business Administration and Management",
          date: "2022",
          field: "Undergraduate",
-         image: "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFb9Fq8tNdowfXoRT0HdDp1Va2rGoCZOqvyxkkVzc6Q05oK0hV4eeoxk-l-a93lI_lw8I&usqp=CAU",
       },
       {
          id: 4,
@@ -40,7 +40,7 @@ export const achievementData = {
             "United State Air Force & Navy Technical Atomospheric & Oceanographic Weather Training",
          date: "Aug 20, 2019",
          field: "Associate",
-         image: "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+         image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/CNATT_Unit_Keesler_logo.png",
       },
       {
          id: 5,
@@ -48,7 +48,7 @@ export const achievementData = {
          details: "Aerographer's Mate (E-5)",
          date: "2014-2020",
          field: "Active Duty",
-         image: "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+         image: "https://www.navy.mil/Portals/_default/Skins/NavyTheme2/Resources/img/seal/DON-SEAL.png",
       },
    ],
 };
