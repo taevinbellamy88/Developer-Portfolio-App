@@ -31,7 +31,7 @@ export const educationData = [
       id: 5,
       institution: "MachiningCloud, Inc",
       course: "Back-End Software Engineer",
-      startYear: "2021",
+      startYear: "2022",
       endYear: "Current",
    },
    {
