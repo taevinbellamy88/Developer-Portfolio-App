@@ -26,7 +26,7 @@ I’m open to new positive network connections! Feel free to connect, and I look
 <details>
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
--  🔭**Full-Stack Software Engineer** at [![](https://img.shields.io/badge/Aquifer_PE-blueviolet)](https://www.linkedin.com/company/equifer-pe/)
+-  🔭**Back-End Software Engineer** at [![](https://img.shields.io/badge/MachiningCloud-blueviolet)](https://www.linkedin.com/company/machiningcloud/mycompany/)
 -  📫 How to reach me: **taevinbellamy.se@gmail.com.**
    <!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>&nbsp;-->
    **_Tech & Tools Preference_**
