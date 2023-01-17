@@ -20,7 +20,15 @@ export const experienceData = [
       company: "Aquifer PE",
       jobtitle: "Full-Stack Software Engineer",
       startYear: "2021",
-      endYear: "Present",
+      endYear: "2022",
+      icon: "engineer",
+   },
+   {
+      id: 4,
+      company: "MachiningCloud, INC",
+      jobtitle: "Back-End Software Engineer",
+      startYear: "2022",
+      endYear: "Current",
       icon: "engineer",
    },
 ];

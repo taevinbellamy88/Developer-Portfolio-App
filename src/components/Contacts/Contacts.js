@@ -139,7 +139,7 @@ function Contacts() {
                message: values.message,
             };
 
-            const SHEETS_API_HOST_PREFIX = "https://sheetdb.io/api/v1/fnydcb9tvspqj";
+            const SHEETS_API_HOST_PREFIX = "https://sheetdb.io/api/v1/kzkk8u8zpniyf";
             SheetDB.write(SHEETS_API_HOST_PREFIX, email).then((response) => {
                setMsg("Thank You For Your Message!");
                setOpen(true);
